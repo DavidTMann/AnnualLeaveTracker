@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "BusinessUnit": "Government",
+      "Projects" : [
+        "AM Dashboard",
+        "Marshmallo",
+        "Beldinki"
+      ]
+    },
+    {
+      "BusinessUnit": "Energy & Utilities",
+      "Projects": [
+        "OFAS",
+        "HERO"
+      ]
+    },
+    {
+      "BusinessUnit": "Healthcare",
+      "Projects": [
+        "WOLA",
+        "NAHS",
+        "DOLI"
+      ]
+    },
+    {
+      "BusinessUnit": "Defence",
+      "Projects":
+      [
+        "NETDOT",
+        "HILA",
+        "ROLLO Dot"
+      ]
+    }
+  ]
+}

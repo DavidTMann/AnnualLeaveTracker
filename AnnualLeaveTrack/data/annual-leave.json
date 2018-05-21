@@ -1,0 +1,221 @@
+{
+	"Employees" : 
+	[
+		{
+			"UserID" : "mannd",
+      "FirstName": "David",
+      "LastName": "Mann",
+      "StaffNum": "00001",
+      "MobileNum" :  "0377848383",
+			"Project" : "AM Dashboard",
+			"Leave" : [
+			{
+				"Dates" : "04/04/2018-08/04/2018",
+				"Days" : "3"
+			},
+			{
+				"Dates" : "26/04/2018-27/04/2018",
+				"Days" : "1.5",
+				"HalfDay" :  ["26/04/2018"]
+			},
+			{
+				"Dates" : "08/05/2018-08/05/2018",
+				"Days" : "0.5",
+				"HalfDay" : ["08/05/2018"]
+			},
+			{
+				"Dates" : "03/06/2018-06/06/2018",
+				"Days" : "3",
+				"HalfDay" : ["03/06/2018", "06/06/2018"]
+			}
+			]		
+		},
+    {
+      "UserID": "jtorky",
+      "FirstName": "James",
+      "LastName": "Torkington",
+      "StaffNum": "00002",
+      "MobileNum": "08277848383",
+      "Project": "AM Dashboard",
+      "Leave": [
+        {
+          "Dates": "01/04/2018-06/04/2018",
+          "Days": "5"
+        },
+        {
+          "Dates": "20/04/2018-21/04/2018",
+          "Days": "1"
+        }
+      ]
+    },
+    {
+      "UserID": "herbehs",
+      "FirstName": "Sharon",
+      "LastName": "Herbeh",
+      "StaffNum": "00003",
+      "MobileNum": "0727367811",
+      "Project": "OFAS",
+      "Leave": [
+        {
+          "Dates": "15/05/2018-18/05/2018",
+          "Days": "4"
+        },
+        {
+          "Dates": "25/06/2018-27/06/2018",
+          "Days": "3"
+        }
+      ]
+    },
+    {
+      "UserID": "pierceyg",
+      "FirstName": "Gary",
+      "LastName": "Pierce",
+      "StaffNum": "00004",
+      "MobileNum": "0388848383",
+      "Project": "Beldinki",
+      "Leave": [
+        {
+          "Dates": "04/04/2018-08/04/2018",
+          "Days": "3"
+        },
+        {
+          "Dates": "26/04/2018-28/04/2018",
+          "Days": "2.5",
+		  "HalfDay" : ["27/04/2018"]
+        }
+      ]
+    },
+	{
+      "UserID": "piej",
+      "FirstName": "John",
+      "LastName": "Pie",
+      "StaffNum": "000034",
+      "MobileNum": "0388848383",
+      "Project": "AM Dashboard",
+      "Leave": [
+        {
+          "Dates": "10/08/2018-10/08/2018",
+          "Days": "1"
+        }
+      ]
+    },
+    {
+      "UserID": "kayj",
+      "FirstName": "James",
+      "LastName": "Kay",
+      "StaffNum": "00005",
+      "MobileNum": "0377848383",
+      "Project": "Marshmallo",
+      "Leave": [
+        {
+          "Dates": "01/04/2018-06/04/2018",
+          "Days": "5"
+        },
+        {
+          "Dates": "20/04/2018-22/04/2018",
+          "Days": "0.5",
+		  "HalfDay" : ["20/04/2018"]
+        }
+      ]
+    },
+    {
+      "UserID": "barri",
+      "FirstName": "Ian",
+      "LastName": "Barr",
+      "StaffNum": "000081",
+      "MobileNum": "0782723711",
+      "Project": "AM Dashboard",
+      "Leave": [
+		{
+          "Dates": "01/04/2018-06/04/2018",
+          "Days": "5"
+        },
+        {
+          "Dates": "20/04/2018-22/04/2018",
+          "Days": "0.5",
+		  "HalfDay" : ["20/04/2018"]
+        }
+      ]
+    },
+    {
+      "UserID": "attwellss",
+      "FirstName": "Scott",
+      "LastName": "Wells",
+      "StaffNum": "000082",
+      "MobileNum": "0827382182",
+      "Project": "AM Dashboard",
+      "Leave": [
+
+      ]
+    },
+    {
+      "UserID": "sharahg",
+      "FirstName": "Sarah",
+      "LastName": "Gup",
+      "StaffNum": "000089",
+      "MobileNum": "07372136",
+      "Project": "OFAS",
+      "Leave": [
+			{
+				"Dates" : "05/07/2018-06/07/2018",
+				"Days" : "2"
+			},
+			{
+				"Dates" : "15/08/2018-15/08/2018",
+				"Days" : "1"
+			}
+      ]
+    },
+    {
+      "UserID": "ahmedt",
+      "FirstName": "Tom",
+      "LastName": "Ahmed",
+      "StaffNum": "000091",
+      "MobileNum": "0728372811",
+      "Project": "OFAS",
+      "Leave": [
+			{
+				"Dates" : "05/07/2018-06/07/2018",
+				"Days" : "2"
+			},
+			{
+				"Dates" : "15/08/2018-17/08/2018",
+				"Days" : "3"
+			}		
+      ]
+    },
+    {
+      "UserID": "glasj",
+      "FirstName": "Josh",
+      "LastName": "Glas",
+      "StaffNum": "0000102",
+      "MobileNum": "0727382182",
+      "Project": "Beldinki",
+      "Leave": [
+        {
+				"Dates" : "04/06/2018-08/06/2018",
+				"Days" : "5"
+			  }
+      ]
+    },
+    {
+			"UserID" : "mannd72",
+      "FirstName": "David",
+      "LastName": "Mann",
+      "StaffNum": "00001",
+      "MobileNum" :  "0377848383",
+			"Project" : "HERO",
+			"Leave" : [
+			{
+				"Dates" : "04/04/2018-08/04/2018",
+				"Days" : "4"
+			},
+			{
+				"Dates" : "26/04/2018-27/04/2018",
+				"Days" : "1.5",
+				"HalfDay" : ["26/04/2018"]				
+			}		
+			]		
+		}
+	]
+}
