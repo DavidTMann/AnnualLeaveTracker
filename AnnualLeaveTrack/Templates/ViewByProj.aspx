@@ -45,14 +45,14 @@
             <asp:DropDownList ID="buDropDown" runat="server" AutoPostBack="true" OnSelectedIndexChanged="buDropDown_SelectedIndexChanged">
             </asp:DropDownList>
             <div style="text-align:right; padding-top:20px;">
-                <asp:Button ID="selectBuBtn" OnClick="selectBuBtn_Click" CssClass="btn btn-primary" runat="server" Text="Select Business Unit" />
+                <asp:Button ID="selectBuBtn" OnClick="selectBuBtn_Click" CssClass="btn btn-primary" runat="server" Text="Select Business Unit" ToolTip="Select a specific business unit to show associated projects." />
             </div>
         </div>
         <div class="input-group" style="padding-left:50px;padding-top:20px;">
             <asp:DropDownList ID="projDropDown" runat="server" OnSelectedIndexChanged="projDropDown_SelectedIndexChanged">
             </asp:DropDownList>
             <div style="text-align:right; padding-top:20px;">
-                <asp:Button ID="selectProjBtn" OnClick="selectProjBtn_Click" CssClass="btn btn-primary" runat="server" Text="Select Project" />
+                <asp:Button ID="selectProjBtn" OnClick="selectProjBtn_Click" CssClass="btn btn-primary" runat="server" Text="Select Project" ToolTip="Select a project from a specific business unit." />
             </div>
         </div>
 

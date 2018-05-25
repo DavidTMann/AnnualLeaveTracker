@@ -53,7 +53,7 @@
                 <asp:TextBox ID="userSearchTxtBox" runat="server"></asp:TextBox>
             
                 <div style="text-align:right; padding-top:20px;">
-                    <asp:Button CssClass="btn btn-primary" runat="server" Text="Search" ID="userSearchBtn" OnClick="userSearchBtn_Click"/>
+                    <asp:Button CssClass="btn btn-primary" runat="server" Text="Search" ID="userSearchBtn" OnClick="userSearchBtn_Click" ToolTip="Enter a user ID to show the members annual leave."/>
                 </div>
             </div>
 
